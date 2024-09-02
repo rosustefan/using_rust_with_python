@@ -9,3 +9,6 @@ The maturin develop command is used to build and install your Rust-based Python 
 
 - `maturin build`
 This command is used when you want to create distributable Python packages. It compiles your Rust code and packages it as a Python wheel (.whl file) or source distribution (.tar.gz).
+
+- `make build` (run this as the final step)
+Create and edit the Makefile && run `make build`
