@@ -1,0 +1,4 @@
+-e git+ssh://git@github.com/rosustefan/using_rust_with_python.git@6856faf56fe62dfc0442cd8b78f300c7c4725072#egg=data_conversion&subdirectory=data-conversion
+maturin==1.7.1
+-e git+ssh://git@github.com/rosustefan/using_rust_with_python.git@6856faf56fe62dfc0442cd8b78f300c7c4725072#egg=pyo3_example&subdirectory=pyo3-example
+tomli==2.0.1
