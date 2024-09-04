@@ -2,6 +2,12 @@
 
 """
 PyCalc CLI using Python Fire
+
+Call the Python methods in Calculator from the CLI:
+./calc.py add 2 2
+./calc.py subtract 5 2
+./calc.py multiply 3 4
+./calc.py divide 42 2
 """
 
 import fire
